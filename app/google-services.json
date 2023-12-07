@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "643397327257",
+    "firebase_url": "https://mobileconekt-c7f1e-default-rtdb.firebaseio.com",
+    "project_id": "mobileconekt-c7f1e",
+    "storage_bucket": "mobileconekt-c7f1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643397327257:android:4aec665271df3694fcdb08",
+        "android_client_info": {
+          "package_name": "com.example.mobileconect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNRM5T9hXyTiyD_9Y0aOy_AZb8-10CoME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
